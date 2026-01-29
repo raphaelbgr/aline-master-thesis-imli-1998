@@ -7,11 +7,26 @@
 
 ---
 
+## 🕊️ In Loving Memory
+
+**Aline Gonzalez Rocha**  
+*1952 – 2024*
+
+This repository is dedicated to preserving the academic legacy of my mother, Aline Gonzalez Rocha. A devoted legal professional, she served Brazil with distinction as a *Procurador* at the Special Prosecution Office of the Navy. In 1998, she traveled to Malta to pursue her LL.M. at the prestigious IMO International Maritime Law Institute, producing this dissertation under the guidance of Professor David J. Attard.
+
+This work represents not only her scholarly contribution to international maritime law but also her lifelong commitment to excellence, justice, and the sea that shaped Brazil's history.
+
+*— Raphael Rocha (Son)*
+
+---
+
 ## 📜 About This Work
 
 This repository contains the digitized and reformatted **LL.M. dissertation** by **Aline Gonzalez Rocha** (Brazil), submitted in April 1998 at the **IMO International Maritime Law Institute (IMLI)** in Malta, under the supervision of **Professor David J. Attard**.
 
 The dissertation provides a comprehensive analysis of Latin American contributions to the development of the international law of the sea, with particular focus on **Brazil's maritime legal policy** and its evolution from territorial claims to alignment with the 1982 UNCLOS framework.
+
+### 📖 [Read the Full Dissertation](Rocha-Aline-1998-IMLI-Dissertation.md)
 
 ---
 
@@ -30,7 +45,7 @@ The dissertation provides a comprehensive analysis of Latin American contributio
 
 ## 👤 About the Author
 
-**Aline Gonzalez Rocha** was a Brazilian legal professional who served as *Procurador* (Prosecuting Attorney) at the **Procuradoria Especial da Marinha** (Special Prosecution Office of the Navy) in Rio de Janeiro. She completed her LL.M. at IMLI as part of the Class of 1998, also producing a drafting project on incorporating the IMO Rome Convention into Brazilian legislation.
+**Aline Gonzalez Rocha** (1952-2024) was a Brazilian legal professional who served as *Procurador* (Prosecuting Attorney) at the **Procuradoria Especial da Marinha** (Special Prosecution Office of the Navy) in Rio de Janeiro. She completed her LL.M. at IMLI as part of the Class of 1998, also producing a drafting project on incorporating the IMO Rome Convention into Brazilian legislation.
 
 ---
 
@@ -108,9 +123,9 @@ Institute, Malta, 1998.
 ## 📂 Repository Contents
 
 ```
-├── README.md                                          # This file
-├── ROCHA_Aline_Gonzalez_1998_IMLI_Dissertation.md    # Full dissertation (Markdown)
-└── LICENSE                                            # License information
+├── README.md                              # This file
+├── Rocha-Aline-1998-IMLI-Dissertation.md  # Full dissertation (Markdown)
+└── LICENSE                                # License information
 ```
 
 ---
@@ -141,6 +156,12 @@ If you are the copyright holder or have concerns about this repository, please o
 
 <p align="center">
   <i>"The Law of the Sea is not simply the result of a process of action and reaction among the most powerful countries but the product of the will of an overwhelming majority of nations from all parts of the world."</i>
-  <br>
-  — Aline Gonzalez Rocha (1998)
+  <br><br>
+  — <b>Aline Gonzalez Rocha</b> (1998)
+</p>
+
+---
+
+<p align="center">
+  🌊 <i>Eternamente no mar, eternamente no coração.</i> 🌊
 </p>
